@@ -31,6 +31,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-pierreslag-djangoblog-vxzg890290u.ws-eu101.gitpod.io']
 ALLOWED_HOSTS = ['ps-django-blog.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['ps-django-blog-781d15859395.herokuapp.com']
 
 
 # Application definition
